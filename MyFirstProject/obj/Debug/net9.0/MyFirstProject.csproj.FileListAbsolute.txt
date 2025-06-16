@@ -1,0 +1,14 @@
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/bin/Debug/net9.0/MyFirstProject
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/bin/Debug/net9.0/MyFirstProject.deps.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/bin/Debug/net9.0/MyFirstProject.runtimeconfig.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/bin/Debug/net9.0/MyFirstProject.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/bin/Debug/net9.0/MyFirstProject.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/refint/MyFirstProject.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.genruntimeconfig.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/ref/MyFirstProject.dll
