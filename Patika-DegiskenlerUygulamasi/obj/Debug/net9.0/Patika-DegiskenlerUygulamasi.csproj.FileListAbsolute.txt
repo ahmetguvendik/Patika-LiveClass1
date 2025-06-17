@@ -1,0 +1,15 @@
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/bin/Debug/net9.0/Patika-DegiskenlerUygulamasi
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/bin/Debug/net9.0/Patika-DegiskenlerUygulamasi.deps.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/bin/Debug/net9.0/Patika-DegiskenlerUygulamasi.runtimeconfig.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/bin/Debug/net9.0/Patika-DegiskenlerUygulamasi.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/bin/Debug/net9.0/Patika-DegiskenlerUygulamasi.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.sourcelink.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/refint/Patika-DegiskenlerUygulamasi.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/Patika-DegiskenlerUygulamasi.genruntimeconfig.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/Patika-DegiskenlerUygulamasi/obj/Debug/net9.0/ref/Patika-DegiskenlerUygulamasi.dll
