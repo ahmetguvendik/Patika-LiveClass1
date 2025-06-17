@@ -1,17 +1,9 @@
 ﻿// Burası bir yorum satırıdır...
 
-Console.WriteLine("Merhaba Dünya");
-Console.WriteLine("----------------");
-
-string message = null;
-Console.WriteLine("Metin Giriniz: ");
-message = Console.ReadLine();
-
-Console.WriteLine("Metininiz: " + message);
-
-Console.WriteLine("----------------");
 
 string ad = "Ahmet";
-var soyad = "Güvendik"; 
+var soyad = "Güvendik";
+string message = "Patika sayesinde eksiklerimi kapatacağıma ve sektöre atılacağıma inandığım için buradayım";
 
 Console.WriteLine(ad + " " + soyad);
+Console.WriteLine(message);

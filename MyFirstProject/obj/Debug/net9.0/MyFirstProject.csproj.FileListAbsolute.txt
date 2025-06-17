@@ -12,3 +12,4 @@
 /Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.pdb
 /Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.genruntimeconfig.cache
 /Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/ref/MyFirstProject.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/Patika/MyFirstProject/obj/Debug/net9.0/MyFirstProject.sourcelink.json
